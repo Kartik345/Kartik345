@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block title %}
+History
+{% endblock %}
+
+{% block main %}
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th class="text-start">Action</th>
+            <th class="text-start">Name</th>
+            <th class="text-end">Price</th>
+            <th class="text-end">Shares</th>
+            <th class="text-end">Time</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for i in ladu %}
+        <tr>
+            <td class="text-start">{{ i["action"] }}</td>
+            <td class="text-start">{{ i["name"] }}</td>
+            <td class="text-end">{{ i["price"]|usd }}</td>
+            <td class="text-end">{{ i["shares"] }}</td>
+            <td class="text-end">${{ i["time"] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

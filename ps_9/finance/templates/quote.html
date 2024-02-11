@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+<form action="/quote" method="post">
+    <div class="form-group">
+        <input type="text" autofocus name="symbol" class="form-control mx-auto w-auto" placeholder="eg. NFLX">
+        <button class="btn btn-primary" type="submit">Enter</button>
+    </div>
+</form>
+{% if quote %}
+<h4>[{{ quote["symbol"] }}]</h4>
+<h5>Price: {{ quote["price"]|usd}}</h5>
+{% endif%}
+{% endblock %}

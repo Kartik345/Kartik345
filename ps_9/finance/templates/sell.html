@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Sell
+{% endblock %}
+
+{% block main %}
+<form action="/sell" method="post">
+    <select name="symbol">
+        <option disabled selected>Symbol</option>
+        {% for name in kell %}
+            <option value="{{ name.name }}">{{ name.name }}</option>
+        {% endfor %}
+    </select>
+    <input name="shares" placeholder="eg. 2" autocomplete="off" class="form-control mx-auto w-auto" type="number">
+    <button type="submit" class="btn btn-primary" value="sell">Sell</button>
+</form>
+{% endblock %}
