@@ -47,7 +47,3 @@ I'm a passionate learner in Computer Science field and a Full Stack Java Develop
 ## 📫 How to reach me
 
 - **LinkedIn**: [Kartik Pethani](https://www.linkedin.com/in/kartikpethani/)
-
-## 🌐 GitHub Stats
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kartikpethani&theme=dark&background=000000)
