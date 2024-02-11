@@ -44,11 +44,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 If you have any questions or suggestions, please feel free to contact me.
 
-## Acknowledgments
-
-- Thanks to the CS50 staff for their guidance and support.
-- Special thanks to the financial industry for the opportunity to learn and grow.
-
 ---
 
 ![Finance App Demo](path/to/demo/image.png)
