@@ -10,16 +10,16 @@
 
 Clone this repository to your local machine:
 
-bash git clone https://github.com/Kartik345/finance-app.git cd finance-app
-
+bash ```git clone https://github.com/Kartik345/finance-app.git cd finance-app```
 
 Install the required dependencies:
 
-bash pip install -r requirements.txt
+bash ```pip install -r requirements.txt```
 
 Run the application:
 
-bash flask run
+
+bash ```flask run```
 
 Visit the link that is appearing terminal to use the application.
 
