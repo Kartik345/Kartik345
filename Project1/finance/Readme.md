@@ -32,6 +32,23 @@ After installation, you can register a new user or log in with an existing accou
 - Buy or sell shares of stocks
 - View your transaction history
 
+- ### Step  1: Register an Account
+
+...
+
+### Step  2: Manage Your Portfolio
+
+...
+
+### Step  3: Buy or Sell Stocks
+
+...
+
+### Step  4: Check Your History
+
+...
+---
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss potential improvements.
@@ -48,31 +65,9 @@ If you have any questions or suggestions, please feel free to contact me.
 
 ![Finance App Demo](path/to/demo/image.png)
 
-<details>
-<summary>Expand for detailed instructions</summary>
-
-### Step  1: Register an Account
-
-...
-
-### Step  2: Manage Your Portfolio
-
-...
-
-### Step  3: Buy or Sell Stocks
-
-...
-
-### Step  4: Check Your History
-
-...
-
-</details>
 
 ---
 
 ### To-Do List
 
-- [ ] Add more security measures
 - [ ] Improve the UI/UX design
-- [ ] Expand the list of supported exchanges
