@@ -71,3 +71,8 @@ I'm a passionate learner in Computer Science field and a Full Stack Java Develop
 ## 📫 How to reach me
 
 - **LinkedIn**: [Kartik Pethani](https://www.linkedin.com/in/kartikpethani/)
+
+<div align="left">
+  <a href = "mailto: kartikpethani555@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/kartik-pethani/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
