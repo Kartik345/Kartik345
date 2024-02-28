@@ -41,16 +41,15 @@ I'm a passionate learner in Computer Science field and a Full Stack Java Develop
 
 ## 🔧 Technical Skills
 
--**Programming Languages**: Java, Python, C/C++, JavaScript, HTML/CSS
--**Web Development Technologies**: Flask, Django, Thymeleaf, JavaServer Faces, Angular, Java EE, PA
--**Databases/DB Tools**: Oracle, SQL Server, MySQL, SQLite, NoSQL, Cassandra, DB Browser for SQLite, Hibernate, MySQL Workbench, Apache Active MQ, Vim
--**Frameworks/APIs**: JUnit, Spring, Spring Boot, Hibernate, ORM, Spring Security, Spring MVC, Web Services (REST), Servlets, JDBC, JavaBeans, JSP, JSTL, Core Java, MVC, Log4J
--**Operating System**: LINUX, MacOS, Windows
--**Tools**: Git, Docker, GitHub Codespaces, Visual Studio Code, Visual Studio, IntelliJ IDEA, Eclipse, Jenkins, Maven, Groovy, JSON, MS Access, MS Excel, MS Office, MS Outlook, MS Word, Tableau, Power BI, Linux OS, Apache Tomcat, SharePoint, PowerPoint
--**Soft Skills**: Communication, Organization, Problem Solving, Team Management, Critical thinking, Risk Management,
+- **Programming Languages**: Java, Python, C/C++, JavaScript, HTML/CSS.
+- **Web Development Technologies**: Flask, Django, Thymeleaf, JavaServer Faces, Angular, Java EE.
+- **Databases/DB Tools**: Oracle, SQL Server, MySQL, SQLite, NoSQL, Cassandra, DB Browser for SQLite, Hibernate, MySQL Workbench, Apache Active MQ, Vim.
+- **Frameworks/APIs**: JUnit, Spring, Spring Boot, Hibernate, ORM, Spring Security, Spring MVC, Web Services (REST), Servlets, JDBC, JavaBeans, JSP, JSTL, Core Java, MVC, Log4J.
+- **Operating System**: LINUX, MacOS, Windows.
+- **Tools**: Git, Docker, GitHub Codespaces, Visual Studio Code, Visual Studio, IntelliJ IDEA, Eclipse, Jenkins, Maven, Groovy, JSON, MS Access, MS Excel, MS Office, MS Outlook, MS Word, Tableau, Power BI, Linux OS, Apache Tomcat, SharePoint, PowerPoint.
+- **Soft Skills**: Communication, Organization, Problem Solving, Team Management, Critical thinking, Risk Management,
 Planning, Time Collaboration, Leadership, Account Management, Scheduling, Data Visualization, Code Reviewing, Data Cleaning, Troubleshooting, System Analysis, Data Analysis, Attention to Detail, Analytical Thinking, Adaptability,
 Quality Standards Compliance.
-![image](https://github.com/Kartik345/Kartik345/assets/129296003/627f64c2-84df-4105-8118-12a81f2ffc1c)
 
 
 ## 🚀 Projects
